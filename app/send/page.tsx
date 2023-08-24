@@ -4,7 +4,7 @@ import Image from 'next/image'
 
 const page = () => {
     return (
-        <div className=' flex-col flex '>
+        <div className='flex-col flex'>
             <div className='text-center justify-center flex'>
 
                 <Image src={qr} alt='qr' width={300} height={300} />
