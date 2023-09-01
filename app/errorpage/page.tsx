@@ -1,5 +1,6 @@
 import React from 'react'
 import qr from "@/public/assets/zwFLujeuWk.gif"
+import qr2 from "@/public/assets/1iZuuIWZ1h.gif"
 import Image from 'next/image'
 
 const page = () => {
@@ -7,7 +8,7 @@ const page = () => {
         <div className='flex-col flex'>
             <div className='text-center justify-center flex'>
 
-                <Image src={qr} alt='qr' width={300} height={300} />
+                <Image src={qr2} alt='qr' width={300} height={300} />
             </div>
             <p className='text-[23px] text-white text-center justify-center'>OOPS Something went wrong</p>
             <div className='text-center justify-center flex  lg:ml-[200px] ml-[30px]'>
