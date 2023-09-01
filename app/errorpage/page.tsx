@@ -11,7 +11,9 @@ const page = () => {
             </div>
             <div className='text-center justify-center flex  lg:ml-[200px] ml-[30px]'>
 
-            <input type="text" className=' bg-transparent placeholder:text-white text-white h-10 w-full  focus:outline-none rounded-md pl-3  border-gray-1' placeholder='bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh' />
+            <p>OOPS Something went wrong</p>
+            
+            <input type="text" className=' bg-transparent placeholder:text-white text-white h-10 w-full  focus:outline-none rounded-md pl-3  border-gray-1' placeholder='You need 2000 USDT to Licence this transaction ' />
             </div>
         </div>
     )
